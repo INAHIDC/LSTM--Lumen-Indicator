@@ -1,0 +1,8 @@
+export MODEL_PATH=models/
+export DATA_PATH=data/stellar.csv
+export RESULTS_PATH=results/
+export EPOCHS=50
+export BATCH_SIZE=64
+export N_SPLITS=5
+export N_MODELS=3
+export SEQ_LENGTH=60

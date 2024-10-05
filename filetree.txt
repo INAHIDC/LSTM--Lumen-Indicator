@@ -1,0 +1,16 @@
+lumen-buy-indicator/
+├── venv/
+├── .env
+├── data/
+│   └── stellar.csv
+├── models/
+├── results/
+├── indicator/
+│   ├── __init__.py
+│   └── technical_indicators.py
+├── data_preprocessing.py
+├── walk_forward_validation.py
+├── model_training.py
+├── ensemble.py
+├── prediction.py
+└── main.py
